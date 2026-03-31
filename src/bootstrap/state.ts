@@ -1756,3 +1756,7 @@ export function setPromptId(id: string | null): void {
   STATE.promptId = id
 }
 
+// Stub: bridge-active state is not available in the public snapshot.
+export function isReplBridgeActive(): boolean {
+  return false
+}
